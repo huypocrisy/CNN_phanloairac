@@ -11,3 +11,5 @@ Ví dụ kết quả thử nghiệm mô hình CNN
 
 Ngoài ra, việc cải tiến hiệu suất của mô hình phân loại rác thải sử dụng Keras và Deep Learning cũng đặt nền tảng cho việc ứng dụng trong thực tế. Với việc tích hợp công nghệ vào các hệ thống phân loại rác tự động, chúng ta có thể giảm tải công việc cho con người, tăng cường hiệu quả trong quá trình phân loại rác thải và thúc đẩy phát triển bền vững trong lĩnh vực môi trường.
 Việc sử dụng Keras và Deep Learning đã đóng góp đáng kể vào việc cải tiến hiệu suất của mô hình phân loại rác thải. Việc áp dụng công nghệ này mang lại lợi ích lớn về độ chính xác, khả năng tăng cường hiệu suất và ứng dụng trong thực tế. Đây là một bước tiến quan trọng trong việc xây dựng môi trường sạch và bền vững cho tương lai.
+
+Nội dung thực hành tại đây [source code](liên_kết)
